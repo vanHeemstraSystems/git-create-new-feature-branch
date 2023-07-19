@@ -5,7 +5,7 @@ Based on "Feature Branch: A Quick Walk Through Git Workflow" at https://blog.mer
 
 How to Create a Feature Branch in Git?
 
-``
+```
 git checkout main
 git pull
 git checkout -b new-feature
