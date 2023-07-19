@@ -17,5 +17,5 @@ git push -u origin new-feature
 **Note**: A recommended naming for feature branches is:
 
 ```
-feat/my_new_feature_short_name
+feat/my-new-feature-short-name
 ```
